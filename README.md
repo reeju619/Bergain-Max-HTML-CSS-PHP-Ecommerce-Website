@@ -1,4 +1,3 @@
-"# Bergain-Max-HTML-CSS-PHP-Ecommerce-Website" 
 Project Overview
 Brief introduction to the Bergain Max project, outlining its purpose and main features.
 File Structure
