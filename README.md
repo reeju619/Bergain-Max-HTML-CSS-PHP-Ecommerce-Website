@@ -1,16 +1,20 @@
-Project Overview
-Brief introduction to the Bergain Max project, outlining its purpose and main features.
-File Structure
-.git: Version control directory.
-Demonstration Video.mp4: A video showcasing the project's functionality.
-about.php, contact.php, faq.php, etc.: PHP scripts for various pages of the web application.
-admin: Directory for admin-related scripts and files.
-cart.php, category.php, checkout.php, etc.: PHP scripts handling different aspects of the shopping experience.
-components: Components used across the web application.
-css: Stylesheets for the web application's design.
-home.php: The home page script.
-images, project images, uploaded_img: Directories containing images used in the project.
-js: JavaScript files for interactive features.
-orders.php, quick_view.php, search_page.php, etc.: Scripts for additional functionalities.
-shop_db.sql: SQL database file for the project.
-update_user.php, user_login.php, user_register.php, wishlist.php: Scripts for user-related functionalities.
+# Bergain Max
+
+## Project Overview
+Bergain Max is a comprehensive web application designed for [brief description of the project's purpose and main features]. 
+
+## File Structure
+- **.git**: Contains version control history.
+- **Demonstration Video.mp4**: A video demonstrating the functionality of the project.
+- **README.md**: This file, providing an overview of the project.
+- **PHP Scripts**: Includes `about.php`, `contact.php`, `faq.php`, and others for various functionalities of the web application.
+- **admin**: Directory dedicated to administrator functionalities.
+- **E-Commerce Functionalities**: Includes `cart.php`, `category.php`, `checkout.php`, and others for managing the shopping experience.
+- **components**: Reusable components used across the web application.
+- **css**: Directory containing CSS files for styling the web application.
+- **home.php**: The main landing page of the web application.
+- **images**: Directories such as `images`, `project images`, `uploaded_img` containing images used in the application.
+- **js**: JavaScript files for adding interactive features.
+- **Additional Functionalities**: Scripts like `orders.php`, `quick_view.php`, `search_page.php` for added functionalities.
+- **Database**: `shop_db.sql` containing the SQL database for the project.
+- **User Management**: Scripts like `update_user.php`, `user_login.php`, `user_register.php`, `wishlist.php` for handling user interactions.
