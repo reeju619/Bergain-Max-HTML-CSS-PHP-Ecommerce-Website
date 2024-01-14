@@ -1,7 +1,7 @@
 # Bergain Max
 
 ## Project Overview
-Bergain Max is a comprehensive web application designed for [brief description of the project's purpose and main features]. 
+Bergain Max is a comprehensive web application designed for buying and selling products on a ecommerce platform. 
 
 ## File Structure
 - **.git**: Contains version control history.
